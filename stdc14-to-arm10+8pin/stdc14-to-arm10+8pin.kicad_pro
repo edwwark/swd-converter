@@ -426,8 +426,12 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "swd-converter"
+    ],
+    "pinned_symbol_libs": [
+      "swd-converter"
+    ]
   },
   "meta": {
     "filename": "stdc14-to-arm10+8pin.kicad_pro",
