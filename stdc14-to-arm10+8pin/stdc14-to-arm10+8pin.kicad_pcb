@@ -1122,7 +1122,7 @@
 		(uuid "e868945c-1a5b-4508-990f-209bdcded38d")
 		(at 126.365 93.345 90)
 		(property "Reference" "REF**"
-			(at 0 3.175 270)
+			(at 0 3.175 -90)
 			(layer "F.SilkS")
 			(uuid "904bdac7-6fc1-46cd-b584-3d296a6589c2")
 			(effects
@@ -1133,7 +1133,7 @@
 			)
 		)
 		(property "Value" "CONN_soicProgSmall"
-			(at 0.127 1.397 270)
+			(at 0.127 1.397 -90)
 			(layer "F.Fab")
 			(uuid "44ef1947-232b-4d62-9957-67bd8d989b90")
 			(effects
